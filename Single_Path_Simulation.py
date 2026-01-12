@@ -47,6 +47,8 @@ with st.expander("Description"):
         This page simulates **one single stock path** and applies **dynamic delta hedging** along that path.
         Instead of averaging over many outcomes, you see exactly **what happens step by step** for one realization
         of the market.
+        
+        Monte Carlo Simulation and Parameter Sweep Simulation can be found at the top of the sidebar
 
         ### What this page shows
         - A single **Geometric Brownian Motion stock path**, generated either randomly or from a fixed seed.
