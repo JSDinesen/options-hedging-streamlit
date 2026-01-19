@@ -8,6 +8,7 @@ The project focuses on **numerical implementation, data handling, and visual ana
 - Simulates stock price paths using Geometric Brownian Motion
 - Prices European options and computes Greeks (delta) via Black–Scholes
 - Applies discrete-time delta hedging with configurable parameters
+- Runs **single-path simulations**, **Monte Carlo simulations**, and **parameter sweeps**
 - Tracks PnL, transaction costs, hedge positions, and portfolio value
 - Visualises results interactively using Streamlit
 
